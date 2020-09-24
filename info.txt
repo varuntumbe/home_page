@@ -1,0 +1,51 @@
+    <div class="container">
+        <div class="row row-content align-items-center">
+            <div class="col-12 col-sm-4 col-md-3 order-sm-last">
+                <h3>Our Lipsmacking Culinary Creations</h3>
+            </div>
+            <div class="col-12 col-sm col-md order-sm-first">
+                <div class="media">
+                    <div class="media-left media-middle"><img src="./img/service_1.png" alt="Uthappam and pizza" class="media-object mr-3 img-thumbnail d-flex"></div>
+                    <div class="media-body">
+                    <h2 class="mt-0 media-heading">Uthappizza <span class="badge badge-danger">Hot</span> <span class="badge badge-pill badge-secondary">$5</span></h2>
+                    <p class="d-none d-sm-block">A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row row-content align-items-center">
+            <div class="col-12 col-sm-4 col-md-3">
+                <h3>This Month's Promotions</h3>
+            </div>
+            <div class="col-12 col-sm col-md">
+                <div class="media">
+                    <div class="media-body">
+                        <h2>Weekend Grand Buffet <span class="badge badge-danger">New</span></h2>
+                        <p class="d-none d-sm-block">Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person </p>
+                    </div>
+                    <div class="media-right"><img src="./img/service_2.png" alt="buffet" class="media-object img-fluid img-thumbnail"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row row-content align-items-center"> 
+            <div class="col-12 col-sm-4 col-md-3 order-sm-last">
+                <h3>Meet our Culinary Specialists</h3>
+            </div>
+            <div class="col-12 col-sm col-md order-sm-first">
+                <div class="media">
+                <div class="media-body">
+                    <h2 class="mt-0">Alberto Somayya</h2>
+                    <h4>Executive Chef</h4>
+                    <p class="d-none d-sm-block">Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. </p>
+                </div>
+                <div class="media-right">
+                    <img src="./img/service_3.png" alt="Alberto" class="media-object mr-3 img-fluid img-thumbnail">
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
